@@ -1,0 +1,76 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<meta http-equiv="Content-Type" content="charset=utf-8" />Odbc (Ochiq ma'lumotlar bazasi ulanishi) interfeysi bu ilovalarga turli XIL ma'lumotlar bazasini boshqarish tizimlari bilan ulanish va o'zaro ta'sir qilish imkonini beruvchi standart dasturiy ta'minot api<br /> <h2> О‘ZBEKISTON RESPUBLIKASI OLIY VA О‘RTA MAXSUS TA’LIM VAZIRLIGI MUHAMMAD AL-XORAZMIY NOMIDAGI TOSHKENT AXBOROT TEXNOLOGIYALARI UNIVERSITETI NURAFSHON FILIALI “Kompyuter injiniringi” fakulteti 610-22 guruh talabasi Rozibayev Ulugbek Malumotlar Bazasidan 1-Mustaqil ish Talaba:Rozibayev Ulugbek O’qituvchi:Yusupov Dilmurod </h2> <h2> 12-variant Mavzu:Ochiq ma’lumotlar bazasi aloqasi (ODBC) interfeysi </h2> 
+<br />ODBC interfeysi
+<br /><b>ODBC (Ochiq ma'lumotlar bazasi ulanishi) interfeysi - bu ilovalarga turli xil ma'lumotlar bazasini boshqarish tizimlari bilan ulanish va o'zaro ta'sir qilish imkonini beruvchi standart dasturiy ta'minot API.</b>
+<br />​
+<br />talaba:Ro’zibayev Ulugbek
+<br />O’qituvchi:Yusupov Dilmurod
+<br />ODBC ning afzalliklari
+<br />1
+<br />Universal integratsiya
+<br />ODBC turli ma'lumotlar bazasi tizimlarini uzluksiz integratsiya qilish imkonini beradi.
+<br />2
+<br />Standartlashtirilgan kirish
+<br />Ilovalar ma'lumotlar bazalariga yagona buyruqlar va funktsiyalar to'plamidan foydalangan holda kirishlari mumkin.
+<br />3
+<br />Kengaytirilgan masshtablilik
+<br />ODBC bir nechta ma'lumotlar bazalariga ulanishni qo'llab-quvvatlaydi, miqyoslilikni oshiradi.
+<br />ODBC Drivers
+<br />ODBC drayverlari nima?
+<br />ODBC drayverlari dasturlarga ma'lumotlar bazalari bilan aloqa qilish imkonini beruvchi dasturiy komponentlardir.
+<br />Rivojlanish va konfiguratsiya
+<br />Ishlab chiquvchilar ODBC drayverlarini ulanishlarni o'rnatish va ma'lumotlar so'rovlarini boshqarish uchun sozlashlari mumkin.
+<br />Ma'lumotlar bazasi mosligi
+<br />ODBC drayverlari turli xil ma'lumotlar bazasini boshqarish tizimlari bilan moslikni ta'minlaydi.
+<br />Xavfsiz ma'lumotlarni uzatish
+<br />1
+<br />Ma'lumotlarni shifrlash
+<br />ODBC shifrlash algoritmlari orqali ma'lumotlarni xavfsiz uzatishni ta'minlaydi.
+<br />2
+<br />Autentifikatsiya
+<br />.
+<br />ODBC ma'lumotlarga kirishni tekshirish uchun autentifikatsiya usullarini qo'llab-quvvatlaydi.
+<br />.
+<br />3
+<br />Audit izil
+<br />Muvofiqlik va xavfsizlik maqsadlarida ma'lumotlarga kirish va o'zgartirishlarni kuzatib boring va kuzatib boring.
+<br />ODBC muvofiqligi
+<br />.
+<br />Standardlar
+<br />ODBC sanoat standartlariga amal qiladi va platformalar bo'ylab muvofiqlikni ta'minlaydi.
+<br />.
+<br />Uchinchi tomon yordami
+<br />Ko'pgina dasturiy ta'minot sotuvchilari o'z mahsulotlari uchun ODBC-ni qo'llab-quvvatlaydi.
+<br />Uzluksiz rivojlanish
+<br />ODBC o'zgaruvchan texnologiya va ma'lumotlarni boshqarish talablariga javob berish uchun rivojlanadi.
+<br />O'zaro ishlash qobiliyati
+<br />ODBC turli xil ma'lumotlar bazasi tizimlari o'rtasida o'zaro ishlash imkonini beradi.
+<br />ODBC vs JDBC
+<br />ODBC haqida
+<br />ODBC Windows muhitida ma'lumotlar bazalariga kirish uchun standart interfeysdir.
+<br />JDBC haqida
+<br />JDBC - Java dasturlarini ma'lumotlar bazalariga ulash uchun Java-ga asoslangan API.
+<br />Key Similarities and Differences
+<br />ODBC va JDBC o'rtasidagi umumiylik va farqlarni o'rganing.
+<br />Biznes razvedkasi uchun ODBC
+<br />1
+<br />Ma'lumotlarni chiqarish
+<br />Turli ma'lumotlar bazalaridan ma'lumotlarni tahlil qilish uchun markazlashtirilgan omborga chiqarib oling.
+<br />2
+<br />Ma'lumotlarni o'zgartirish
+<br />Ma'lumotlar sifati va izchilligini ta'minlash uchun murakkab o'zgarishlarni qo'llang.
+<br />3
+<br />Ma'lumotlarni tahlil qilish
+<br />Integratsiyalashgan va o'zgartirilgan ma'lumotlarni tahlil qilish va asosli qarorlar qabul qilish.
+<br />ODBC eng yaxshi amaliyotlari
+<br />1
+<br />Ulanishni birlashtirish
+<br />Ma'lumotlar bazasi ulanishlarini samarali boshqarish uchun ulanishni birlashtirishdan foydalaning.
+<br />2
+<br />Parametrlangan so'rovlar
+<br />Parametrlangan so'rovlar SQL in'ektsiya hujumlarini oldini olish va ish faoliyatini yaxshilash uchun parametrlangan so'rovlardan foydalaning.
+<br />3
+<br />Xato bilan ishlash
+<br />Ma'lumotlar bazasi bilan bog'liq muammolarni aniqlash va hal qilish uchun ishonchli xatolarni qayta ishlash mexanizmlarini qo'llang.<br />http://azkurs.org</html>
